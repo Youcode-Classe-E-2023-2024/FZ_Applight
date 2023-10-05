@@ -11,7 +11,7 @@ a {
 }
 a:hover {
 	color:#5f0099;
-}
+} 
 h1, h2, h3 {
 	font-weight: 700;
 }
@@ -604,5 +604,13 @@ h3 {
 }
 .footer-copy p {
 	font-size: 10px;
+} 
 }
+
+
+/* modification */
+
+.contact .container ,.faq .container ,.testimonial .container ,.team .container ,.feature .container, .about .container{
+	margin-top: 50px;
 }
+
